@@ -54,3 +54,6 @@ P.S. If you're interested in contributing go ahead and create a pull request :-)
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
 - [40 Side Project Ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef?utm_source=pocket_mylist) from codementor.io
 - [30 Developer Portfolio Project Ideas](https://dev.to/allthecode/30-developer-portfolio-project-ideas-3kh5?utm_source=pocket_mylist) from Simon Barker
+
+
+Thank You
